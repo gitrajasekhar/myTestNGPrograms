@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="parallelTestsTestSuite" parallel="tests" >
+
+	<test name="parallelTests1">
+ 		    <parameter name="Browser" value="Chrome"/>
+ 				<classes>
+					<class name="TestNGIWScripts.TestsParallelExecution" />
+				</classes>
+	</test>
+		
+	<test name="parallelTests2">
+ 			      <parameter name="Browser" value="FireFox"/>
+ 			  		<classes>
+						<class name="TestNGIWScripts.TestsParallelExecution" />
+					</classes>
+	</test>
+			
+		
+		
+</suite>
+

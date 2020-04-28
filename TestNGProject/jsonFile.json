@@ -1,0 +1,29 @@
+{
+   "firstname": "raja",
+   "lastname": "sekhar",
+   "address":[
+    {
+    	"street":"street1",
+        "city":"hyd",
+        "state":"tl"    
+     },
+   
+    {
+    	"street":"street2",
+        "city":"chennai",
+        "state":"tn"    
+     }
+   
+  ]
+   
+   
+   
+   
+
+
+
+
+
+
+
+}

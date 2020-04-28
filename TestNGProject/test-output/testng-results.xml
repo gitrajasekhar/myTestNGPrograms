@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36" started-at="2020-04-26T06:14:13Z" finished-at="2020-04-26T06:14:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="36" started-at="2020-04-26T06:14:13Z" finished-at="2020-04-26T06:14:13Z">
+      <class name="TestNGIWScripts.TestNGLifeCycle">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TestNGIWScripts.TestNGLifeCycle@4034c28c]" name="beforeSuite" is-config="true" duration-ms="13" started-at="2020-04-26T11:44:13Z" finished-at="2020-04-26T11:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestNGIWScripts.TestNGLifeCycle@4034c28c]" name="beforeTest" is-config="true" duration-ms="1" started-at="2020-04-26T11:44:13Z" finished-at="2020-04-26T11:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestNGIWScripts.TestNGLifeCycle@4034c28c]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-04-26T11:44:13Z" finished-at="2020-04-26T11:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:TestNGIWScripts.TestNGLifeCycle@4034c28c]" name="beforeTestMethod" is-config="true" duration-ms="1" started-at="2020-04-26T11:44:13Z" finished-at="2020-04-26T11:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:TestNGIWScripts.TestNGLifeCycle@4034c28c]" name="method2" duration-ms="7" started-at="2020-04-26T11:44:13Z" finished-at="2020-04-26T11:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="afterTestMethod()[pri:0, instance:TestNGIWScripts.TestNGLifeCycle@4034c28c]" name="afterTestMethod" is-config="true" duration-ms="1" started-at="2020-04-26T11:44:13Z" finished-at="2020-04-26T11:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="method1()[pri:2, instance:TestNGIWScripts.TestNGLifeCycle@4034c28c]" name="method1" duration-ms="2" started-at="2020-04-26T11:44:13Z" finished-at="2020-04-26T11:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:TestNGIWScripts.TestNGLifeCycle@4034c28c]" name="beforeTestMethod" is-config="true" duration-ms="0" started-at="2020-04-26T11:44:13Z" finished-at="2020-04-26T11:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNGIWScripts.TestNGLifeCycle@4034c28c]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-04-26T11:44:13Z" finished-at="2020-04-26T11:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTestMethod()[pri:0, instance:TestNGIWScripts.TestNGLifeCycle@4034c28c]" name="afterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-26T11:44:13Z" finished-at="2020-04-26T11:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestNGIWScripts.TestNGLifeCycle@4034c28c]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-04-26T11:44:13Z" finished-at="2020-04-26T11:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TestNGIWScripts.TestNGLifeCycle@4034c28c]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-04-26T11:44:13Z" finished-at="2020-04-26T11:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TestNGIWScripts.TestNGLifeCycle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

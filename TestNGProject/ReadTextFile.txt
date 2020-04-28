@@ -1,0 +1,4 @@
+This is a text file
+Rajasekhar
+This is to Read Text file line by line
+Write the script
